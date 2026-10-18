@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# PyInstaller 构建产物
+build/
+dist/
+*.spec.bak
+
+# 日志与临时文件
+*.log
+error.log
+compile_out.txt
+pyi_*.txt
+pyi_*.log
+build_log.txt
+temp/
